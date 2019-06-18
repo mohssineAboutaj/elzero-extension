@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "name": "elzero extension",
+  "description": "Quick launch to Elzero content",
+  "version": "1.0.0",
+  "icons": {
+    "16": "./assets/imgs/icon_16.png",
+    "32": "./assets/imgs/icon_32.png",
+    "64": "./assets/imgs/icon_64.png",
+    "92": "./assets/imgs/icon_92.png",
+    "128": "./assets/imgs/icon_128.png"
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "./assets/imgs/icon_16.png",
+      "32": "./assets/imgs/icon_32.png",
+      "64": "./assets/imgs/icon_64.png",
+      "92": "./assets/imgs/icon_92.png",
+      "128": "./assets/imgs/icon_128.png"
+    },
+    "default_popup": "popup.html",
+    "default_title": "Elzero extension"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}

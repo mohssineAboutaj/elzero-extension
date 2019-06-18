@@ -1,0 +1,22 @@
+html {
+  min-width: 300px;
+}
+
+.text-capitalize {
+  text-transform: capitalize;
+}
+
+.description {
+  font-size: 1.25em;
+  line-height: 1.25;
+}
+
+.card-action .row .col {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  outline: 0;
+}
