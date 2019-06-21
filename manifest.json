@@ -6,6 +6,7 @@
   "icons": {
     "16": "./assets/imgs/icon_16.png",
     "32": "./assets/imgs/icon_32.png",
+    "48": "./assets/imgs/icon_48.png",
     "64": "./assets/imgs/icon_64.png",
     "92": "./assets/imgs/icon_92.png",
     "128": "./assets/imgs/icon_128.png"
